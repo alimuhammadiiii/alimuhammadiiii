@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href=&quothttps://github.com/alimuhammadiiii>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=alimuhammadiiii /></a>
+<a href=&quothttps://github.com/alimuhammadiiii&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=alimuhammadiiii&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
 <!--
 **alimuhammadiiii/alimuhammadiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
