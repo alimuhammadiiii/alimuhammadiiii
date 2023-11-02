@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning react
 - 📫 How to reach me: alimmhd3@gmail.com
 <hr>
-
+<h2> # 📊 GitHub Stats:</h2>
 <a href="https://github.com/alimuhammadiiii">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alimuhammadiiii&show_icons=true&include_all_commits=true&theme=dark" alt="ali github stats" />
 </a>
-<hr>
+<br>
 <a href="https://github.com/alimuhammadiiii/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alimuhammadiiii&layout=compact&theme=dark" />
 </a>
