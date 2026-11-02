@@ -1,28 +1,33 @@
+# Hi, I'm Ali Muhammadi 👋
 
+**Frontend Developer | React, TypeScript & Next.js**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=26&duration=6000&pause=1000&color=e26d5c&vCenter=true&width=440&lines=Hey+I'm+Ali!+👋;React+developer;Nice+to+meet+you.)](https://git.io/typing-svg)
+I'm a Frontend Developer with 3+ years of experience building web applications and turning product ideas into user-friendly experiences.
 
-<hr>
+I enjoy solving real-world problems, improving user experiences, and building maintainable frontend architectures.
 
+### 🚀 What I'm Working On
 
-- 🌱 I’m currently learning react
-- 📫 How to reach me: alimmhd3@gmail.com
-<hr>
-<h2> # 📊 GitHub Stats:</h2>
-<a href="https://github.com/alimuhammadiiii">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alimuhammadiiii&show_icons=true&include_all_commits=true&theme=dark" alt="ali github stats" />
-</a>
-<br>
-<a href="https://github.com/alimuhammadiiii/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alimuhammadiiii&layout=compact&theme=dark" />
-</a>
-<hr>
-<h2>languages and tools:</h2> 
+Currently building **[Nobateki](https://nobateki.ir/)**, a salon management and online appointment booking platform.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Focused on product development, frontend architecture, and creating practical experiences for both business owners and customers.
 
+### 🛠️ Tech Stack
 
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Concepts:** Responsive Design, Component Architecture, UI/UX
+- **Tools:** Git, GitHub
 
+### 🤖 AI-Assisted Development
+
+I use AI tools as part of my development workflow for exploring solutions, debugging, and improving productivity while maintaining ownership of technical decisions and code quality.
+
+### 🌱 Open Source
+
+Interested in open-source software and collaborative development. I've also contributed to projects within the **Functionland** ecosystem.
+
+### 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/alimuhammadiii/)
+- [Nobateki](https://nobateki.ir/)
