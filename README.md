@@ -1,10 +1,10 @@
 # Hi, I'm Ali Muhammadi 👋
 
-**Frontend Developer | React, TypeScript & Next.js**
+**Front-End Engineer**
 
-I'm a Frontend Developer with 3+ years of experience building web applications and turning product ideas into user-friendly experiences.
+Front-End Engineer with ~3 years of professional experience building modern, responsive web applications with React, Next.js, and TypeScript.
 
-I enjoy solving real-world problems, improving user experiences, and building maintainable frontend architectures.
+I focus on building maintainable interfaces, scalable frontend architecture, API integrations, and performance-optimized applications.
 
 ### 🚀 What I'm Working On
 
@@ -15,9 +15,9 @@ Focused on product development, frontend architecture, and creating practical ex
 ### 🛠️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript
-- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Frontend:** React.js, Next.js, TanStack Query, Tailwind CSS, shadcn/ui, Base UI
 - **Concepts:** Responsive Design, Component Architecture, UI/UX
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, Figma, Zeplin
 
 ### 🤖 AI-Assisted Development
 
@@ -30,4 +30,3 @@ Interested in open-source software and collaborative development. I've also cont
 ### 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alimuhammadiii/)
-- [Nobateki](https://nobateki.ir/)
